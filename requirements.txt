@@ -1,0 +1,11 @@
+pymc
+
+arviz
+
+streamlit
+
+numpy, pandas, matplotlib, seaborn
+
+scipy==1.10.1
+
+reportlab
